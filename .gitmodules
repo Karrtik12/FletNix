@@ -1,3 +1,6 @@
 [submodule "fletnix_fe"]
 	path = fletnix_fe
 	url = https://github.com/Karrtik12/fletnix_fe.git
+[submodule "fletnix_be"]
+	path = fletnix_be
+	url = https://github.com/Karrtik12/fletnix_be.git
