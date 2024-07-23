@@ -6,7 +6,15 @@
     <h3>Your Ultimate Guide to Movies and TV Shows</h3>
 </div>
 
-_FletNix is your ultimate destination for exploring an extensive catalogue of movies and TV shows. Whether you're a film buff or a casual viewer, FletNix offers detailed information on a wide range of titles. Find everything you need to know about your favorite movies and shows, including directors, cast members, duration, release years, and comprehensive descriptions. Our platform also features helpful tags and age ratings to ensure you find the perfect content for any occasion. Dive into the world of entertainment with FletNix and never miss out on the latest releases and timeless classics._
+**_Fletnix is your ultimate destination for exploring an extensive catalogue of movies and TV shows. Built with Angular and Material UI for a sleek user experience, and powered by a Node.js and Express.js backend with a MongoDB database, Fletnix ensures a seamless and responsive interface._**
+
+**Core Functionalities:**
+
+- **User Authentication:** _Enjoy secure access with basic authentication. Sign up or log in using your email, password, and age._
+- **Age-Appropriate Content:** _Users under 18 won't see "R" rated content, ensuring a safe viewing experience for all ages._
+- **Extensive Catalogue:** _Browse a paginated list of TV shows and movies, with 15 items per page, making it easy to find your next favorite._
+- **Search and Filter:** _Effortlessly search for titles or cast members and filter between movies and TV shows to find exactly what you're looking for._
+- **Detailed Information:** _Click on any item to access a detailed page featuring comprehensive information, including directors, cast, duration, release year, descriptions, tags, and age ratings._
 
 <div align='center'>
     <p style="font-size: 18px;"><strong>Login now and get started!!</strong></p>
