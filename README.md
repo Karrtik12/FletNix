@@ -18,5 +18,5 @@ _FletNix is your ultimate destination for exploring an extensive catalogue of mo
 
 ##### To run this application in your local machine, follow these steps:
 
-- Refer <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules" target="#">git submodules</a> to clone this project
+- Refer <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules" target="_blank">git submodules</a> to clone this project
 - Follow the steps mentioned in the submodules
